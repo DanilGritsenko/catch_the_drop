@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6742c70f-8ec1-4e76-815e-267ad70f2579" name="Default Changelist" comment="" />
+    <list default="true" id="6742c70f-8ec1-4e76-815e-267ad70f2579" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/catch_the_drop/com/company/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/catch_the_drop/com/company/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/catch_the_drop/com/company/Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/catch_the_drop/com/company/Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Entry.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qggl3aN1fBvu9fXIb2FDw0jRpg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/protobuf-java-3.6.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -63,5 +74,18 @@
       <updated>1568197801195</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

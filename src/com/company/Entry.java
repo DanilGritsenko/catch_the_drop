@@ -48,6 +48,7 @@ public class Entry {
         try {
             if (e.getKeyCode() == KeyEvent.VK_CAPS_LOCK) return;
             if (e.getKeyCode() == KeyEvent.VK_SHIFT) return;
+            if (text.length() >= 15) return;
             if (e.getKeyCode() == KeyEvent.VK_BACK_SPACE)
                 text = text.substring(0, text.length() - 1);
             else

@@ -54,6 +54,7 @@ public class Database {
                 System.out.println("Connection to Store DB succesfull!");
             } catch (Exception ex) {
                 System.out.println("Connection failed...");
+                System.out.println(ex);
             }
         }
     }
